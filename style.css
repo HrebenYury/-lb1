@@ -73,3 +73,19 @@ h1 {
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+.BlockTask12{
+    text-align: justify;
+    height: 250px;
+    width: 200px;
+    margin: 10px 40px 20px 18px ;
+    padding: 15px ;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.Indent{
+    margin-bottom: -15px;
+}
