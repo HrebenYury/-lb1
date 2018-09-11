@@ -233,3 +233,29 @@ color: rgb(30, 219, 24);
         outline-offset:-0.04em;
     }
 }
+
+.ImageBox{
+    display: flex;
+    margin: auto;
+}
+
+.IMG{    
+    margin: 10px 40px 20px 50px ;
+    padding: 15px ;
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.IMG2{
+    margin: 10px 40px 20px 50px ;
+    padding: 15px ;
+    width: 80%;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.MomChild{
+    border-radius: 15px;
+}
